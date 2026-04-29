@@ -3,7 +3,7 @@
 
 using namespace std;
 
-/**
+/*
  * Merge Sort Algorithm (Divide and Conquer)
  * 
  * Logic:
