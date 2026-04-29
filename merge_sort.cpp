@@ -14,7 +14,6 @@ using namespace std;
  * Time Complexity: O(n log n) in all cases.
  * Space Complexity: O(n) for auxiliary space.
  */
-
 // Function to merge two halves
 void merge(vector<int>& arr, int left, int mid, int right) {
     int n1 = mid - left + 1;
